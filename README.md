@@ -1,4 +1,4 @@
-# homepage
+# My App
 
 A new Flutter project.
 
